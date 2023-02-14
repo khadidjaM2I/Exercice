@@ -1,3 +1,4 @@
 Baguette 
-Jambon 
+Jambon
+Truffe
 Beurre
