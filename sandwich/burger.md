@@ -2,7 +2,7 @@ Steak
 
 Salade
 
-Tomate
+Tomate brûlées
 
 Cornichon
 
